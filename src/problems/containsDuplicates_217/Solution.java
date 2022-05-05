@@ -3,6 +3,7 @@ package problems.containsDuplicates_217;
 import java.util.HashSet;
 import java.util.Set;
 
+// link : https://leetcode.com/problems/contains-duplicate/
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet();
