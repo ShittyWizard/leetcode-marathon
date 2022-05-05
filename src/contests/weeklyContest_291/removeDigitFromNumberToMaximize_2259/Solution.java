@@ -1,4 +1,4 @@
-package contests.removeDigitFromNumberToMaximize_2259;
+package contests.weeklyContest_291.removeDigitFromNumberToMaximize_2259;
 
 
 // link : https://leetcode.com/contest/weekly-contest-291/problems/remove-digit-from-number-to-maximize-result/
